@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs><radialGradient id="glow" cx="50%" cy="0%" r="70%"><stop offset="0" stop-color="#1d3a63" stop-opacity="0.9"/><stop offset="1" stop-color="#0b1220" stop-opacity="0"/></radialGradient><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ffffff" opacity="0.05"/></pattern></defs><rect width="1080" height="1350" fill="#0b1220"/><rect width="1080" height="1350" fill="url(#dots)"/><rect width="1080" height="600" fill="url(#glow)"/>
+<text x="1020.0" y="1300.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Consolas, monospace" font-size="22" font-weight="600" fill="#93a1b8" text-anchor="end" letter-spacing="0" opacity="1">12 / 12</text>
+<circle cx="540.0" cy="220" r="30" fill="#a78bfa"/>
+<text x="540.0" y="350.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="800" fill="#e8edf6" text-anchor="middle" letter-spacing="2" opacity="1">WHAT&#x27;S NEXT?</text>
+<text x="540.0" y="405.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Where Python can take you after the roadmap</text>
+<rect x="140" y="500" width="800" height="92" rx="46" fill="#131c2e" stroke="#243049" stroke-width="2"/>
+<text x="540.0" y="558.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#e8edf6" text-anchor="middle" letter-spacing="0" opacity="1">Data Science</text>
+<rect x="140" y="626" width="800" height="92" rx="46" fill="#131c2e" stroke="#243049" stroke-width="2"/>
+<text x="540.0" y="684.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#e8edf6" text-anchor="middle" letter-spacing="0" opacity="1">Deep Learning</text>
+<rect x="140" y="752" width="800" height="92" rx="46" fill="#131c2e" stroke="#243049" stroke-width="2"/>
+<text x="540.0" y="810.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#e8edf6" text-anchor="middle" letter-spacing="0" opacity="1">Automation &amp; DevOps</text>
+<rect x="140" y="878" width="800" height="92" rx="46" fill="#131c2e" stroke="#243049" stroke-width="2"/>
+<text x="540.0" y="936.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#e8edf6" text-anchor="middle" letter-spacing="0" opacity="1">Game Dev</text>
+<rect x="140" y="1004" width="800" height="92" rx="46" fill="#131c2e" stroke="#243049" stroke-width="2"/>
+<text x="540.0" y="1062.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#e8edf6" text-anchor="middle" letter-spacing="0" opacity="1">Cybersecurity</text>
+<rect x="140" y="1130" width="800" height="92" rx="46" fill="#131c2e" stroke="#243049" stroke-width="2"/>
+<text x="540.0" y="1188.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#e8edf6" text-anchor="middle" letter-spacing="0" opacity="1">DSA &amp; Interviews</text>
+</svg>

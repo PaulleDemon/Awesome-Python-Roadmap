@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<defs><radialGradient id="glow" cx="50%" cy="0%" r="70%"><stop offset="0" stop-color="#1d3a63" stop-opacity="0.9"/><stop offset="1" stop-color="#0b1220" stop-opacity="0"/></radialGradient><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ffffff" opacity="0.05"/></pattern></defs><rect width="1080" height="1350" fill="#0b1220"/><rect width="1080" height="1350" fill="url(#dots)"/><rect width="1080" height="600" fill="url(#glow)"/>
+<circle cx="387.0" cy="68" r="6" fill="#4b8bbe" opacity="0.9"/>
+<circle cx="421.0" cy="68" r="6" fill="#4b8bbe" opacity="0.9"/>
+<circle cx="455.0" cy="68" r="6" fill="#4b8bbe" opacity="0.9"/>
+<circle cx="489.0" cy="68" r="6" fill="#4b8bbe" opacity="0.9"/>
+<circle cx="523.0" cy="68" r="6" fill="#4b8bbe" opacity="0.9"/>
+<circle cx="557.0" cy="68" r="6" fill="#4b8bbe" opacity="0.9"/>
+<rect x="577.0" y="62" width="28" height="12" rx="6" fill="#ffd43b"/>
+<circle cx="625.0" cy="68" r="6" fill="#ffd43b" opacity="0.25"/>
+<circle cx="659.0" cy="68" r="6" fill="#ffd43b" opacity="0.25"/>
+<circle cx="693.0" cy="68" r="6" fill="#a78bfa" opacity="0.25"/>
+<text x="1020.0" y="1300.0" font-family="'JetBrains Mono', 'DejaVu Sans Mono', Consolas, monospace" font-size="22" font-weight="600" fill="#93a1b8" text-anchor="end" letter-spacing="0" opacity="1">8 / 12</text>
+<circle cx="138" cy="215" r="58" fill="#0b1220" stroke="#ffd43b" stroke-width="8"/>
+<text x="138.0" y="233.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="800" fill="#ffd43b" text-anchor="middle" letter-spacing="0" opacity="1">6</text>
+<text x="230.0" y="182.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffd43b" text-anchor="start" letter-spacing="2.5" opacity="1">STAGE 6</text>
+<text x="228.0" y="248.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">GUI Development</text>
+<rect x="60" y="330" width="960" height="780" rx="28" fill="#131c2e" stroke="#243049" stroke-width="2"/>
+<rect x="60" y="330" width="960" height="10" rx="5" fill="#ffd43b"/>
+<text x="104.0" y="400.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#93a1b8" text-anchor="start" letter-spacing="2.5" opacity="1">WHAT YOU&#x27;LL LEARN</text>
+<circle cx="114" cy="461.0" r="7" fill="#ffd43b"/>
+<text x="144.0" y="472.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.95">Tkinter widgets</text>
+<circle cx="114" cy="553.0" r="7" fill="#ffd43b"/>
+<text x="144.0" y="564.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.95">Layouts &amp; events</text>
+<circle cx="114" cy="645.0" r="7" fill="#ffd43b"/>
+<text x="144.0" y="656.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.95">Dialogs &amp; menus</text>
+<circle cx="114" cy="737.0" r="7" fill="#ffd43b"/>
+<text x="144.0" y="748.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.95">CustomTkinter</text>
+<circle cx="114" cy="829.0" r="7" fill="#ffd43b"/>
+<text x="144.0" y="840.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.95">PyUIBuilder (drag &amp; drop)</text>
+<circle cx="114" cy="921.0" r="7" fill="#ffd43b"/>
+<text x="144.0" y="932.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.95">PySide6 (Qt)</text>
+<circle cx="114" cy="1013.0" r="7" fill="#ffd43b"/>
+<text x="144.0" y="1024.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.95">PyInstaller</text>
+<rect x="60" y="1140" width="960" height="96" rx="20" fill="#ffd43b" fill-opacity="0.13" stroke="#ffd43b" stroke-opacity="0.55" stroke-width="2"/>
+<text x="100.0" y="1180.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="800" fill="#ffd43b" text-anchor="start" letter-spacing="2" opacity="1">PROJECT</text>
+<text x="100.0" y="1216.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Expense Tracker desktop app</text>
+</svg>

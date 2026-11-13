@@ -1,0 +1,282 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="2688" viewBox="0 0 1400 2688">
+<defs><radialGradient id="glow" cx="50%" cy="0%" r="70%"><stop offset="0" stop-color="#1d3a63" stop-opacity="0.9"/><stop offset="1" stop-color="#0b1220" stop-opacity="0"/></radialGradient><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ffffff" opacity="0.05"/></pattern></defs><rect width="1400" height="2688" fill="#0b1220"/><rect width="1400" height="2688" fill="url(#dots)"/><rect width="1400" height="700" fill="url(#glow)"/>
+<defs><linearGradient id="spine" gradientUnits="userSpaceOnUse" x1="0" y1="380" x2="0" y2="2478"><stop offset="0" stop-color="#4b8bbe"/><stop offset="0.55" stop-color="#4b8bbe"/><stop offset="0.62" stop-color="#ffd43b"/><stop offset="0.86" stop-color="#ffd43b"/><stop offset="0.93" stop-color="#a78bfa"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect x="653.8" y="45.8" width="42.5" height="42.5" rx="11.2" fill="#4b8bbe"/><rect x="703.8" y="95.8" width="42.5" height="42.5" rx="11.2" fill="#ffd43b"/><rect x="678.8" y="70.8" width="42.5" height="42.5" rx="11.2" fill="none" stroke="#e8edf6" stroke-width="3.8"/>
+<text x="700.0" y="205.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="800" fill="#e8edf6" text-anchor="middle" letter-spacing="3" opacity="1">PYTHON ROADMAP</text>
+<text x="700.0" y="252.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">The complete learning roadmap for students &amp; developers</text>
+<circle cx="230.0" cy="324" r="9" fill="#4b8bbe"/>
+<text x="250.0" y="331.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#93a1b8" text-anchor="start" letter-spacing="0" opacity="1">Core: everyone</text>
+<circle cx="560.0" cy="324" r="9" fill="#ffd43b"/>
+<text x="580.0" y="331.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#93a1b8" text-anchor="start" letter-spacing="0" opacity="1">Tracks: GUI, Data, Web</text>
+<circle cx="890.0" cy="324" r="9" fill="#a78bfa"/>
+<text x="910.0" y="331.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#93a1b8" text-anchor="start" letter-spacing="0" opacity="1">AI: needs Data + Web</text>
+<line x1="700.0" y1="380" x2="700.0" y2="2478" stroke="url(#spine)" stroke-width="8" stroke-linecap="round" opacity="0.9"/>
+<line x1="700.0" y1="426" x2="630.0" y2="426" stroke="#4b8bbe" stroke-width="3" stroke-dasharray="6 6" opacity="0.8"/>
+<rect x="50.0" y="380" width="580" height="308" rx="20" fill="#131c2e" stroke="#243049" stroke-width="1.5"/>
+<rect x="50.0" y="380" width="580" height="8" rx="4" fill="#4b8bbe"/>
+<text x="82.0" y="430.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#4b8bbe" text-anchor="start" letter-spacing="2.5" opacity="1">STAGE 0</text>
+<text x="82.0" y="474.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Getting Started</text>
+<circle cx="87.0" cy="513" r="4.5" fill="#4b8bbe"/>
+<text x="102.0" y="520.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Why Python?</text>
+<circle cx="345.0" cy="513" r="4.5" fill="#4b8bbe"/>
+<text x="360.0" y="520.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Install Python &amp; VS Code</text>
+<circle cx="87.0" cy="547" r="4.5" fill="#4b8bbe"/>
+<text x="102.0" y="554.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Terminal basics</text>
+<circle cx="345.0" cy="547" r="4.5" fill="#4b8bbe"/>
+<text x="360.0" y="554.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">REPL vs scripts</text>
+<circle cx="87.0" cy="581" r="4.5" fill="#4b8bbe"/>
+<text x="102.0" y="588.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">print() &amp; comments</text>
+<rect x="70.0" y="630" width="540" height="40" rx="10" fill="#4b8bbe" fill-opacity="0.13" stroke="#4b8bbe" stroke-opacity="0.5"/>
+<text x="86.0" y="657.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#4b8bbe" text-anchor="start" letter-spacing="1.5" opacity="1">PROJECT</text>
+<text x="178.0" y="657.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Your first Python script</text>
+<circle cx="700.0" cy="426" r="34" fill="#0b1220" stroke="#4b8bbe" stroke-width="6"/>
+<text x="700.0" y="438.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#4b8bbe" text-anchor="middle" letter-spacing="0" opacity="1">0</text>
+<line x1="700.0" y1="576" x2="770.0" y2="576" stroke="#4b8bbe" stroke-width="3" stroke-dasharray="6 6" opacity="0.8"/>
+<rect x="770.0" y="530" width="580" height="342" rx="20" fill="#131c2e" stroke="#243049" stroke-width="1.5"/>
+<rect x="770.0" y="530" width="580" height="8" rx="4" fill="#4b8bbe"/>
+<text x="802.0" y="580.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#4b8bbe" text-anchor="start" letter-spacing="2.5" opacity="1">STAGE 1</text>
+<text x="802.0" y="624.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Python Basics</text>
+<circle cx="807.0" cy="663" r="4.5" fill="#4b8bbe"/>
+<text x="822.0" y="670.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Variables &amp; data types</text>
+<circle cx="1065.0" cy="663" r="4.5" fill="#4b8bbe"/>
+<text x="1080.0" y="670.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Operators</text>
+<circle cx="807.0" cy="697" r="4.5" fill="#4b8bbe"/>
+<text x="822.0" y="704.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Strings &amp; f-strings</text>
+<circle cx="1065.0" cy="697" r="4.5" fill="#4b8bbe"/>
+<text x="1080.0" y="704.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Input &amp; type conversion</text>
+<circle cx="807.0" cy="731" r="4.5" fill="#4b8bbe"/>
+<text x="822.0" y="738.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">if / elif / else</text>
+<circle cx="1065.0" cy="731" r="4.5" fill="#4b8bbe"/>
+<text x="1080.0" y="738.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">match-case</text>
+<circle cx="807.0" cy="765" r="4.5" fill="#4b8bbe"/>
+<text x="822.0" y="772.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">for &amp; while loops</text>
+<circle cx="1065.0" cy="765" r="4.5" fill="#4b8bbe"/>
+<text x="1080.0" y="772.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">break &amp; continue</text>
+<rect x="790.0" y="814" width="540" height="40" rx="10" fill="#4b8bbe" fill-opacity="0.13" stroke="#4b8bbe" stroke-opacity="0.5"/>
+<text x="806.0" y="841.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#4b8bbe" text-anchor="start" letter-spacing="1.5" opacity="1">PROJECT</text>
+<text x="898.0" y="841.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Guessing Game + Calculator</text>
+<circle cx="700.0" cy="576" r="34" fill="#0b1220" stroke="#4b8bbe" stroke-width="6"/>
+<text x="700.0" y="588.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#4b8bbe" text-anchor="middle" letter-spacing="0" opacity="1">1</text>
+<line x1="700.0" y1="770" x2="630.0" y2="770" stroke="#4b8bbe" stroke-width="3" stroke-dasharray="6 6" opacity="0.8"/>
+<rect x="50.0" y="724" width="580" height="308" rx="20" fill="#131c2e" stroke="#243049" stroke-width="1.5"/>
+<rect x="50.0" y="724" width="580" height="8" rx="4" fill="#4b8bbe"/>
+<text x="82.0" y="774.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#4b8bbe" text-anchor="start" letter-spacing="2.5" opacity="1">STAGE 2</text>
+<text x="82.0" y="818.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Data Structures</text>
+<circle cx="87.0" cy="857" r="4.5" fill="#4b8bbe"/>
+<text x="102.0" y="864.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Lists</text>
+<circle cx="345.0" cy="857" r="4.5" fill="#4b8bbe"/>
+<text x="360.0" y="864.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Tuples &amp; unpacking</text>
+<circle cx="87.0" cy="891" r="4.5" fill="#4b8bbe"/>
+<text x="102.0" y="898.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Sets</text>
+<circle cx="345.0" cy="891" r="4.5" fill="#4b8bbe"/>
+<text x="360.0" y="898.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Dictionaries</text>
+<circle cx="87.0" cy="925" r="4.5" fill="#4b8bbe"/>
+<text x="102.0" y="932.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Comprehensions</text>
+<circle cx="345.0" cy="925" r="4.5" fill="#4b8bbe"/>
+<text x="360.0" y="932.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Intro to Big-O</text>
+<rect x="70.0" y="974" width="540" height="40" rx="10" fill="#4b8bbe" fill-opacity="0.13" stroke="#4b8bbe" stroke-opacity="0.5"/>
+<text x="86.0" y="1001.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#4b8bbe" text-anchor="start" letter-spacing="1.5" opacity="1">PROJECT</text>
+<text x="178.0" y="1001.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Contact Book / To-Do CLI</text>
+<circle cx="700.0" cy="770" r="34" fill="#0b1220" stroke="#4b8bbe" stroke-width="6"/>
+<text x="700.0" y="782.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#4b8bbe" text-anchor="middle" letter-spacing="0" opacity="1">2</text>
+<line x1="700.0" y1="954" x2="770.0" y2="954" stroke="#4b8bbe" stroke-width="3" stroke-dasharray="6 6" opacity="0.8"/>
+<rect x="770.0" y="908" width="580" height="342" rx="20" fill="#131c2e" stroke="#243049" stroke-width="1.5"/>
+<rect x="770.0" y="908" width="580" height="8" rx="4" fill="#4b8bbe"/>
+<text x="802.0" y="958.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#4b8bbe" text-anchor="start" letter-spacing="2.5" opacity="1">STAGE 3</text>
+<text x="802.0" y="1002.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Functions &amp; Modules</text>
+<circle cx="807.0" cy="1041" r="4.5" fill="#4b8bbe"/>
+<text x="822.0" y="1048.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Functions &amp; return</text>
+<circle cx="1065.0" cy="1041" r="4.5" fill="#4b8bbe"/>
+<text x="1080.0" y="1048.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">*args &amp; **kwargs</text>
+<circle cx="807.0" cy="1075" r="4.5" fill="#4b8bbe"/>
+<text x="822.0" y="1082.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Scope &amp; nonlocal</text>
+<circle cx="1065.0" cy="1075" r="4.5" fill="#4b8bbe"/>
+<text x="1080.0" y="1082.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">lambda, map, filter</text>
+<circle cx="807.0" cy="1109" r="4.5" fill="#4b8bbe"/>
+<text x="822.0" y="1116.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Recursion</text>
+<circle cx="1065.0" cy="1109" r="4.5" fill="#4b8bbe"/>
+<text x="1080.0" y="1116.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Standard library</text>
+<circle cx="807.0" cy="1143" r="4.5" fill="#4b8bbe"/>
+<text x="822.0" y="1150.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">pip &amp; venv</text>
+<circle cx="1065.0" cy="1143" r="4.5" fill="#4b8bbe"/>
+<text x="1080.0" y="1150.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">requirements.txt</text>
+<rect x="790.0" y="1192" width="540" height="40" rx="10" fill="#4b8bbe" fill-opacity="0.13" stroke="#4b8bbe" stroke-opacity="0.5"/>
+<text x="806.0" y="1219.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#4b8bbe" text-anchor="start" letter-spacing="1.5" opacity="1">PROJECT</text>
+<text x="898.0" y="1219.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Password Generator + Quiz</text>
+<circle cx="700.0" cy="954" r="34" fill="#0b1220" stroke="#4b8bbe" stroke-width="6"/>
+<text x="700.0" y="966.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#4b8bbe" text-anchor="middle" letter-spacing="0" opacity="1">3</text>
+<line x1="700.0" y1="1114" x2="630.0" y2="1114" stroke="#4b8bbe" stroke-width="3" stroke-dasharray="6 6" opacity="0.8"/>
+<rect x="50.0" y="1068" width="580" height="410" rx="20" fill="#131c2e" stroke="#243049" stroke-width="1.5"/>
+<rect x="50.0" y="1068" width="580" height="8" rx="4" fill="#4b8bbe"/>
+<text x="82.0" y="1118.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#4b8bbe" text-anchor="start" letter-spacing="2.5" opacity="1">STAGE 4</text>
+<text x="82.0" y="1162.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Intermediate &amp; OOP</text>
+<circle cx="87.0" cy="1201" r="4.5" fill="#4b8bbe"/>
+<text x="102.0" y="1208.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Exceptions</text>
+<circle cx="345.0" cy="1201" r="4.5" fill="#4b8bbe"/>
+<text x="360.0" y="1208.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Files: CSV, JSON</text>
+<circle cx="87.0" cy="1235" r="4.5" fill="#4b8bbe"/>
+<text x="102.0" y="1242.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Dates &amp; times</text>
+<circle cx="345.0" cy="1235" r="4.5" fill="#4b8bbe"/>
+<text x="360.0" y="1242.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Regular expressions</text>
+<circle cx="87.0" cy="1269" r="4.5" fill="#4b8bbe"/>
+<text x="102.0" y="1276.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Classes &amp; objects</text>
+<circle cx="345.0" cy="1269" r="4.5" fill="#4b8bbe"/>
+<text x="360.0" y="1276.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Inheritance &amp; super()</text>
+<circle cx="87.0" cy="1303" r="4.5" fill="#4b8bbe"/>
+<text x="102.0" y="1310.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Dunder &amp; dataclasses</text>
+<circle cx="345.0" cy="1303" r="4.5" fill="#4b8bbe"/>
+<text x="360.0" y="1310.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Generators</text>
+<circle cx="87.0" cy="1337" r="4.5" fill="#4b8bbe"/>
+<text x="102.0" y="1344.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Decorators</text>
+<circle cx="345.0" cy="1337" r="4.5" fill="#4b8bbe"/>
+<text x="360.0" y="1344.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Context managers</text>
+<circle cx="87.0" cy="1371" r="4.5" fill="#4b8bbe"/>
+<text x="102.0" y="1378.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Type hints</text>
+<rect x="70.0" y="1420" width="540" height="40" rx="10" fill="#4b8bbe" fill-opacity="0.13" stroke="#4b8bbe" stroke-opacity="0.5"/>
+<text x="86.0" y="1447.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#4b8bbe" text-anchor="start" letter-spacing="1.5" opacity="1">PROJECT</text>
+<text x="178.0" y="1447.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Library Management System</text>
+<circle cx="700.0" cy="1114" r="34" fill="#0b1220" stroke="#4b8bbe" stroke-width="6"/>
+<text x="700.0" y="1126.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#4b8bbe" text-anchor="middle" letter-spacing="0" opacity="1">4</text>
+<line x1="700.0" y1="1332" x2="770.0" y2="1332" stroke="#4b8bbe" stroke-width="3" stroke-dasharray="6 6" opacity="0.8"/>
+<rect x="770.0" y="1286" width="580" height="308" rx="20" fill="#131c2e" stroke="#243049" stroke-width="1.5"/>
+<rect x="770.0" y="1286" width="580" height="8" rx="4" fill="#4b8bbe"/>
+<text x="802.0" y="1336.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#4b8bbe" text-anchor="start" letter-spacing="2.5" opacity="1">STAGE 5</text>
+<text x="802.0" y="1380.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Tools &amp; Best Practices</text>
+<circle cx="807.0" cy="1419" r="4.5" fill="#4b8bbe"/>
+<text x="822.0" y="1426.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Git &amp; GitHub</text>
+<circle cx="1065.0" cy="1419" r="4.5" fill="#4b8bbe"/>
+<text x="1080.0" y="1426.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Debugging &amp; logging</text>
+<circle cx="807.0" cy="1453" r="4.5" fill="#4b8bbe"/>
+<text x="822.0" y="1460.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">PEP 8 &amp; Ruff</text>
+<circle cx="1065.0" cy="1453" r="4.5" fill="#4b8bbe"/>
+<text x="1080.0" y="1460.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Testing with pytest</text>
+<circle cx="807.0" cy="1487" r="4.5" fill="#4b8bbe"/>
+<text x="822.0" y="1494.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">pyproject &amp; uv</text>
+<circle cx="1065.0" cy="1487" r="4.5" fill="#4b8bbe"/>
+<text x="1080.0" y="1494.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">threading &amp; asyncio</text>
+<rect x="790.0" y="1536" width="540" height="40" rx="10" fill="#4b8bbe" fill-opacity="0.13" stroke="#4b8bbe" stroke-opacity="0.5"/>
+<text x="806.0" y="1563.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#4b8bbe" text-anchor="start" letter-spacing="1.5" opacity="1">CHECKPOINT</text>
+<text x="928.0" y="1563.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">core done, pick a track</text>
+<circle cx="700.0" cy="1332" r="34" fill="#0b1220" stroke="#4b8bbe" stroke-width="6"/>
+<text x="700.0" y="1344.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#4b8bbe" text-anchor="middle" letter-spacing="0" opacity="1">5</text>
+<line x1="700.0" y1="1560" x2="630.0" y2="1560" stroke="#ffd43b" stroke-width="3" stroke-dasharray="6 6" opacity="0.8"/>
+<rect x="50.0" y="1514" width="580" height="342" rx="20" fill="#131c2e" stroke="#243049" stroke-width="1.5"/>
+<rect x="50.0" y="1514" width="580" height="8" rx="4" fill="#ffd43b"/>
+<text x="82.0" y="1564.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffd43b" text-anchor="start" letter-spacing="2.5" opacity="1">STAGE 6</text>
+<text x="82.0" y="1608.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">GUI Development</text>
+<circle cx="87.0" cy="1647" r="4.5" fill="#ffd43b"/>
+<text x="102.0" y="1654.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Tkinter widgets</text>
+<circle cx="345.0" cy="1647" r="4.5" fill="#ffd43b"/>
+<text x="360.0" y="1654.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Layouts &amp; events</text>
+<circle cx="87.0" cy="1681" r="4.5" fill="#ffd43b"/>
+<text x="102.0" y="1688.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Dialogs &amp; menus</text>
+<circle cx="345.0" cy="1681" r="4.5" fill="#ffd43b"/>
+<text x="360.0" y="1688.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">CustomTkinter</text>
+<circle cx="87.0" cy="1715" r="4.5" fill="#ffd43b"/>
+<text x="102.0" y="1722.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">PyUIBuilder</text>
+<circle cx="345.0" cy="1715" r="4.5" fill="#ffd43b"/>
+<text x="360.0" y="1722.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">PySide6 (Qt)</text>
+<circle cx="87.0" cy="1749" r="4.5" fill="#ffd43b"/>
+<text x="102.0" y="1756.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">PyInstaller</text>
+<rect x="70.0" y="1798" width="540" height="40" rx="10" fill="#ffd43b" fill-opacity="0.13" stroke="#ffd43b" stroke-opacity="0.5"/>
+<text x="86.0" y="1825.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#ffd43b" text-anchor="start" letter-spacing="1.5" opacity="1">PROJECT</text>
+<text x="178.0" y="1825.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Expense Tracker desktop app</text>
+<circle cx="700.0" cy="1560" r="34" fill="#0b1220" stroke="#ffd43b" stroke-width="6"/>
+<text x="700.0" y="1572.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#ffd43b" text-anchor="middle" letter-spacing="0" opacity="1">6</text>
+<line x1="700.0" y1="1710" x2="770.0" y2="1710" stroke="#ffd43b" stroke-width="3" stroke-dasharray="6 6" opacity="0.8"/>
+<rect x="770.0" y="1664" width="580" height="342" rx="20" fill="#131c2e" stroke="#243049" stroke-width="1.5"/>
+<rect x="770.0" y="1664" width="580" height="8" rx="4" fill="#ffd43b"/>
+<text x="802.0" y="1714.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffd43b" text-anchor="start" letter-spacing="2.5" opacity="1">STAGE 7</text>
+<text x="802.0" y="1758.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">NumPy &amp; Data</text>
+<circle cx="807.0" cy="1797" r="4.5" fill="#ffd43b"/>
+<text x="822.0" y="1804.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Jupyter Notebooks</text>
+<circle cx="1065.0" cy="1797" r="4.5" fill="#ffd43b"/>
+<text x="1080.0" y="1804.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">NumPy arrays</text>
+<circle cx="807.0" cy="1831" r="4.5" fill="#ffd43b"/>
+<text x="822.0" y="1838.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Slicing &amp; masks</text>
+<circle cx="1065.0" cy="1831" r="4.5" fill="#ffd43b"/>
+<text x="1080.0" y="1838.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Broadcasting</text>
+<circle cx="807.0" cy="1865" r="4.5" fill="#ffd43b"/>
+<text x="822.0" y="1872.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Pandas DataFrames</text>
+<circle cx="1065.0" cy="1865" r="4.5" fill="#ffd43b"/>
+<text x="1080.0" y="1872.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Cleaning &amp; groupby</text>
+<circle cx="807.0" cy="1899" r="4.5" fill="#ffd43b"/>
+<text x="822.0" y="1906.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Matplotlib</text>
+<circle cx="1065.0" cy="1899" r="4.5" fill="#ffd43b"/>
+<text x="1080.0" y="1906.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Seaborn</text>
+<rect x="790.0" y="1948" width="540" height="40" rx="10" fill="#ffd43b" fill-opacity="0.13" stroke="#ffd43b" stroke-opacity="0.5"/>
+<text x="806.0" y="1975.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#ffd43b" text-anchor="start" letter-spacing="1.5" opacity="1">PROJECT</text>
+<text x="898.0" y="1975.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">EDA on a real dataset</text>
+<circle cx="700.0" cy="1710" r="34" fill="#0b1220" stroke="#ffd43b" stroke-width="6"/>
+<text x="700.0" y="1722.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#ffd43b" text-anchor="middle" letter-spacing="0" opacity="1">7</text>
+<line x1="700.0" y1="1938" x2="630.0" y2="1938" stroke="#ffd43b" stroke-width="3" stroke-dasharray="6 6" opacity="0.8"/>
+<rect x="50.0" y="1892" width="580" height="376" rx="20" fill="#131c2e" stroke="#243049" stroke-width="1.5"/>
+<rect x="50.0" y="1892" width="580" height="8" rx="4" fill="#ffd43b"/>
+<text x="82.0" y="1942.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffd43b" text-anchor="start" letter-spacing="2.5" opacity="1">STAGE 8</text>
+<text x="82.0" y="1986.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Web Development</text>
+<circle cx="87.0" cy="2025" r="4.5" fill="#ffd43b"/>
+<text x="102.0" y="2032.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">HTTP, HTML &amp; JSON</text>
+<circle cx="345.0" cy="2025" r="4.5" fill="#ffd43b"/>
+<text x="360.0" y="2032.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">requests &amp; APIs</text>
+<circle cx="87.0" cy="2059" r="4.5" fill="#ffd43b"/>
+<text x="102.0" y="2066.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Web scraping</text>
+<circle cx="345.0" cy="2059" r="4.5" fill="#ffd43b"/>
+<text x="360.0" y="2066.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">SQL &amp; SQLite</text>
+<circle cx="87.0" cy="2093" r="4.5" fill="#ffd43b"/>
+<text x="102.0" y="2100.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Flask &amp; Jinja2</text>
+<circle cx="345.0" cy="2093" r="4.5" fill="#ffd43b"/>
+<text x="360.0" y="2100.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">SQLAlchemy &amp; auth</text>
+<circle cx="87.0" cy="2127" r="4.5" fill="#ffd43b"/>
+<text x="102.0" y="2134.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">FastAPI &amp; Pydantic</text>
+<circle cx="345.0" cy="2127" r="4.5" fill="#ffd43b"/>
+<text x="360.0" y="2134.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Django &amp; admin</text>
+<circle cx="87.0" cy="2161" r="4.5" fill="#ffd43b"/>
+<text x="102.0" y="2168.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Docker &amp; deployment</text>
+<rect x="70.0" y="2210" width="540" height="40" rx="10" fill="#ffd43b" fill-opacity="0.13" stroke="#ffd43b" stroke-opacity="0.5"/>
+<text x="86.0" y="2237.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#ffd43b" text-anchor="start" letter-spacing="1.5" opacity="1">PROJECT</text>
+<text x="178.0" y="2237.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Blog or URL Shortener API</text>
+<circle cx="700.0" cy="1938" r="34" fill="#0b1220" stroke="#ffd43b" stroke-width="6"/>
+<text x="700.0" y="1950.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#ffd43b" text-anchor="middle" letter-spacing="0" opacity="1">8</text>
+<line x1="700.0" y1="2088" x2="770.0" y2="2088" stroke="#a78bfa" stroke-width="3" stroke-dasharray="6 6" opacity="0.8"/>
+<rect x="770.0" y="2042" width="580" height="376" rx="20" fill="#131c2e" stroke="#243049" stroke-width="1.5"/>
+<rect x="770.0" y="2042" width="580" height="8" rx="4" fill="#a78bfa"/>
+<text x="802.0" y="2092.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#a78bfa" text-anchor="start" letter-spacing="2.5" opacity="1">STAGE 9</text>
+<text x="802.0" y="2136.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">ML &amp; AI Basics</text>
+<circle cx="807.0" cy="2175" r="4.5" fill="#a78bfa"/>
+<text x="822.0" y="2182.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">ML concepts</text>
+<circle cx="1065.0" cy="2175" r="4.5" fill="#a78bfa"/>
+<text x="1080.0" y="2182.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Maths with NumPy</text>
+<circle cx="807.0" cy="2209" r="4.5" fill="#a78bfa"/>
+<text x="822.0" y="2216.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Linear regression</text>
+<circle cx="1065.0" cy="2209" r="4.5" fill="#a78bfa"/>
+<text x="1080.0" y="2216.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Classification</text>
+<circle cx="807.0" cy="2243" r="4.5" fill="#a78bfa"/>
+<text x="822.0" y="2250.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Metrics &amp; validation</text>
+<circle cx="1065.0" cy="2243" r="4.5" fill="#a78bfa"/>
+<text x="1080.0" y="2250.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Pipelines</text>
+<circle cx="807.0" cy="2277" r="4.5" fill="#a78bfa"/>
+<text x="822.0" y="2284.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">K-Means clustering</text>
+<circle cx="1065.0" cy="2277" r="4.5" fill="#a78bfa"/>
+<text x="1080.0" y="2284.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">Neural nets (PyTorch)</text>
+<circle cx="807.0" cy="2311" r="4.5" fill="#a78bfa"/>
+<text x="822.0" y="2318.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="0.92">LLM APIs &amp; embeddings</text>
+<rect x="790.0" y="2360" width="540" height="40" rx="10" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-opacity="0.5"/>
+<text x="806.0" y="2387.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="800" fill="#a78bfa" text-anchor="start" letter-spacing="1.5" opacity="1">CAPSTONE</text>
+<text x="912.0" y="2387.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">ML-powered web app</text>
+<circle cx="700.0" cy="2088" r="34" fill="#0b1220" stroke="#a78bfa" stroke-width="6"/>
+<text x="700.0" y="2100.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" fill="#a78bfa" text-anchor="middle" letter-spacing="0" opacity="1">9</text>
+<circle cx="700.0" cy="2478" r="22" fill="#a78bfa"/>
+<text x="700.0" y="2553.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="800" fill="#e8edf6" text-anchor="middle" letter-spacing="2" opacity="1">WHAT&#x27;S NEXT?</text>
+<rect x="67.25" y="2583" width="182.0" height="44" rx="22" fill="none" stroke="#243049" stroke-width="2"/>
+<text x="158.2" y="2612.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Data Science</text>
+<rect x="263.25" y="2583" width="193.5" height="44" rx="22" fill="none" stroke="#243049" stroke-width="2"/>
+<text x="360.0" y="2612.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Deep Learning</text>
+<rect x="470.75" y="2583" width="262.5" height="44" rx="22" fill="none" stroke="#243049" stroke-width="2"/>
+<text x="602.0" y="2612.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Automation &amp; DevOps</text>
+<rect x="747.25" y="2583" width="136.0" height="44" rx="22" fill="none" stroke="#243049" stroke-width="2"/>
+<text x="815.2" y="2612.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Game Dev</text>
+<rect x="897.25" y="2583" width="193.5" height="44" rx="22" fill="none" stroke="#243049" stroke-width="2"/>
+<text x="994.0" y="2612.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Cybersecurity</text>
+<rect x="1104.75" y="2583" width="228.0" height="44" rx="22" fill="none" stroke="#243049" stroke-width="2"/>
+<text x="1218.8" y="2612.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">DSA &amp; Interviews</text>
+</svg>

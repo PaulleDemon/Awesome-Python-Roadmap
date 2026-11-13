@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<defs><radialGradient id="glow" cx="50%" cy="0%" r="70%"><stop offset="0" stop-color="#1d3a63" stop-opacity="0.9"/><stop offset="1" stop-color="#0b1220" stop-opacity="0"/></radialGradient><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ffffff" opacity="0.05"/></pattern></defs><rect width="1920" height="1080" fill="#0b1220"/><rect width="1920" height="1080" fill="url(#dots)"/><rect width="1920" height="900" fill="url(#glow)"/>
+<rect x="111.1" y="71.1" width="35.7" height="35.7" rx="9.5" fill="#4b8bbe"/><rect x="153.2" y="113.2" width="35.7" height="35.7" rx="9.5" fill="#ffd43b"/><rect x="132.2" y="92.2" width="35.7" height="35.7" rx="9.5" fill="none" stroke="#e8edf6" stroke-width="3.2"/>
+<text x="240.0" y="112.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#e8edf6" text-anchor="start" letter-spacing="2" opacity="1">PYTHON ROADMAP</text>
+<text x="242.0" y="160.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="400" fill="#93a1b8" text-anchor="start" letter-spacing="0" opacity="1">From print() to machine learning</text>
+<path d="M 95 340 L 1615 340 C 1845 340, 1845 730, 1615 730 L 95 730" fill="none" stroke="#243049" stroke-width="22" stroke-linecap="round"/>
+<path d="M 95 340 L 1615 340 C 1845 340, 1845 730, 1615 730 L 95 730" fill="none" stroke="#3a4a6b" stroke-width="3" stroke-dasharray="14 14" stroke-linecap="round"/>
+<circle cx="215" cy="340" r="50" fill="#0b1220" stroke="#4b8bbe" stroke-width="8"/>
+<text x="215.0" y="356.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#4b8bbe" text-anchor="middle" letter-spacing="0" opacity="1">0</text>
+<text paint-order="stroke" stroke="#0b1220" stroke-width="10" x="215.0" y="438.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#e8edf6" text-anchor="middle" letter-spacing="0" opacity="1">Getting Started</text>
+<text x="215.0" y="480.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Setup</text>
+<text x="215.0" y="510.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">REPL</text>
+<text x="215.0" y="540.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">First script</text>
+<circle cx="565" cy="340" r="50" fill="#0b1220" stroke="#4b8bbe" stroke-width="8"/>
+<text x="565.0" y="356.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#4b8bbe" text-anchor="middle" letter-spacing="0" opacity="1">1</text>
+<text paint-order="stroke" stroke="#0b1220" stroke-width="10" x="565.0" y="438.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#e8edf6" text-anchor="middle" letter-spacing="0" opacity="1">Python Basics</text>
+<text x="565.0" y="480.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Variables</text>
+<text x="565.0" y="510.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Conditionals</text>
+<text x="565.0" y="540.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Loops</text>
+<circle cx="915" cy="340" r="50" fill="#0b1220" stroke="#4b8bbe" stroke-width="8"/>
+<text x="915.0" y="356.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#4b8bbe" text-anchor="middle" letter-spacing="0" opacity="1">2</text>
+<text paint-order="stroke" stroke="#0b1220" stroke-width="10" x="915.0" y="438.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#e8edf6" text-anchor="middle" letter-spacing="0" opacity="1">Data Structures</text>
+<text x="915.0" y="480.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Lists &amp; tuples</text>
+<text x="915.0" y="510.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Sets &amp; dicts</text>
+<text x="915.0" y="540.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Comprehensions</text>
+<circle cx="1265" cy="340" r="50" fill="#0b1220" stroke="#4b8bbe" stroke-width="8"/>
+<text x="1265.0" y="356.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#4b8bbe" text-anchor="middle" letter-spacing="0" opacity="1">3</text>
+<text paint-order="stroke" stroke="#0b1220" stroke-width="10" x="1265.0" y="438.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#e8edf6" text-anchor="middle" letter-spacing="0" opacity="1">Functions &amp; Modules</text>
+<text x="1265.0" y="480.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Functions</text>
+<text x="1265.0" y="510.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Modules</text>
+<text x="1265.0" y="540.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">pip &amp; venv</text>
+<circle cx="1615" cy="340" r="50" fill="#0b1220" stroke="#4b8bbe" stroke-width="8"/>
+<text x="1615.0" y="356.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#4b8bbe" text-anchor="middle" letter-spacing="0" opacity="1">4</text>
+<text paint-order="stroke" stroke="#0b1220" stroke-width="10" x="1615.0" y="438.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#e8edf6" text-anchor="middle" letter-spacing="0" opacity="1">Intermediate &amp; OOP</text>
+<text x="1615.0" y="480.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Exceptions &amp; files</text>
+<text x="1615.0" y="510.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">OOP</text>
+<text x="1615.0" y="540.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Decorators</text>
+<circle cx="1615" cy="730" r="50" fill="#0b1220" stroke="#4b8bbe" stroke-width="8"/>
+<text x="1615.0" y="746.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#4b8bbe" text-anchor="middle" letter-spacing="0" opacity="1">5</text>
+<text paint-order="stroke" stroke="#0b1220" stroke-width="10" x="1615.0" y="828.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#e8edf6" text-anchor="middle" letter-spacing="0" opacity="1">Tools &amp; Best Practices</text>
+<text x="1615.0" y="870.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Git</text>
+<text x="1615.0" y="900.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">pytest</text>
+<text x="1615.0" y="930.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Packaging</text>
+<circle cx="1265" cy="730" r="50" fill="#0b1220" stroke="#ffd43b" stroke-width="8"/>
+<text x="1265.0" y="746.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#ffd43b" text-anchor="middle" letter-spacing="0" opacity="1">6</text>
+<text paint-order="stroke" stroke="#0b1220" stroke-width="10" x="1265.0" y="828.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#e8edf6" text-anchor="middle" letter-spacing="0" opacity="1">GUI Development</text>
+<text x="1265.0" y="870.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Tkinter</text>
+<text x="1265.0" y="900.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">PyUIBuilder</text>
+<text x="1265.0" y="930.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">PySide6</text>
+<circle cx="915" cy="730" r="50" fill="#0b1220" stroke="#ffd43b" stroke-width="8"/>
+<text x="915.0" y="746.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#ffd43b" text-anchor="middle" letter-spacing="0" opacity="1">7</text>
+<text paint-order="stroke" stroke="#0b1220" stroke-width="10" x="915.0" y="828.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#e8edf6" text-anchor="middle" letter-spacing="0" opacity="1">NumPy &amp; Data</text>
+<text x="915.0" y="870.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">NumPy</text>
+<text x="915.0" y="900.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Pandas</text>
+<text x="915.0" y="930.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Matplotlib</text>
+<circle cx="565" cy="730" r="50" fill="#0b1220" stroke="#ffd43b" stroke-width="8"/>
+<text x="565.0" y="746.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#ffd43b" text-anchor="middle" letter-spacing="0" opacity="1">8</text>
+<text paint-order="stroke" stroke="#0b1220" stroke-width="10" x="565.0" y="828.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#e8edf6" text-anchor="middle" letter-spacing="0" opacity="1">Web Development</text>
+<text x="565.0" y="870.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Flask</text>
+<text x="565.0" y="900.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">FastAPI</text>
+<text x="565.0" y="930.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">Django</text>
+<circle cx="215" cy="730" r="50" fill="#0b1220" stroke="#a78bfa" stroke-width="8"/>
+<text x="215.0" y="746.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#a78bfa" text-anchor="middle" letter-spacing="0" opacity="1">9</text>
+<text paint-order="stroke" stroke="#0b1220" stroke-width="10" x="215.0" y="828.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="800" fill="#e8edf6" text-anchor="middle" letter-spacing="0" opacity="1">ML &amp; AI Basics</text>
+<text x="215.0" y="870.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">scikit-learn</text>
+<text x="215.0" y="900.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">PyTorch</text>
+<text x="215.0" y="930.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="400" fill="#93a1b8" text-anchor="middle" letter-spacing="0" opacity="1">LLM APIs</text>
+<circle cx="115" cy="1022" r="11" fill="#4b8bbe"/>
+<text x="137.0" y="1030.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="600" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Core Python</text>
+<circle cx="322.5" cy="1022" r="11" fill="#ffd43b"/>
+<text x="344.5" y="1030.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="600" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Specialisation tracks</text>
+<circle cx="655.0" cy="1022" r="11" fill="#a78bfa"/>
+<text x="677.0" y="1030.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="600" fill="#e8edf6" text-anchor="start" letter-spacing="0" opacity="1">Machine Learning &amp; AI</text>
+</svg>

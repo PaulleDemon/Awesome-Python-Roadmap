@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect width="1920" height="1080" fill="#f7f8fa"/>
+<text x="110.0" y="140.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#151515" text-anchor="start">Python Developer Roadmap</text>
+<text x="112.0" y="190.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="500" fill="#5b6270" text-anchor="start">From the basics to machine learning</text>
+<path d="M 80 380 L 1690 380 C 1950 380, 1950 780, 1690 780 L 80 780" fill="none" stroke="#2b6fd6" stroke-width="4"/>
+<line x1="230" y1="422.0" x2="230" y2="456.0" stroke="#2b6fd6" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="0.1 8"/>
+<rect x="110.0" y="456.0" width="240.0" height="118.0" rx="6" fill="#fde8a6" stroke="#151515" stroke-width="2.4"/>
+<text x="230.0" y="490.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Setup</text>
+<text x="230.0" y="523.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">REPL</text>
+<text x="230.0" y="556.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">First script</text>
+<rect x="80.0" y="338.0" width="300.0" height="84.0" rx="6" fill="#fff03a" stroke="#151515" stroke-width="3"/>
+<text x="230.0" y="371.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#4a4a3a" text-anchor="middle">Stage 0</text>
+<text x="230.0" y="404.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#151515" text-anchor="middle">Getting Started</text>
+<line x1="595" y1="422.0" x2="595" y2="456.0" stroke="#2b6fd6" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="0.1 8"/>
+<rect x="475.0" y="456.0" width="240.0" height="118.0" rx="6" fill="#fde8a6" stroke="#151515" stroke-width="2.4"/>
+<text x="595.0" y="490.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Variables</text>
+<text x="595.0" y="523.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Conditionals</text>
+<text x="595.0" y="556.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Loops</text>
+<rect x="445.0" y="338.0" width="300.0" height="84.0" rx="6" fill="#fff03a" stroke="#151515" stroke-width="3"/>
+<text x="595.0" y="371.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#4a4a3a" text-anchor="middle">Stage 1</text>
+<text x="595.0" y="404.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#151515" text-anchor="middle">Python Basics</text>
+<line x1="960" y1="422.0" x2="960" y2="456.0" stroke="#2b6fd6" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="0.1 8"/>
+<rect x="840.0" y="456.0" width="240.0" height="118.0" rx="6" fill="#fde8a6" stroke="#151515" stroke-width="2.4"/>
+<text x="960.0" y="490.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Lists &amp; Tuples</text>
+<text x="960.0" y="523.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Sets &amp; Dicts</text>
+<text x="960.0" y="556.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Comprehensions</text>
+<rect x="810.0" y="338.0" width="300.0" height="84.0" rx="6" fill="#fff03a" stroke="#151515" stroke-width="3"/>
+<text x="960.0" y="371.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#4a4a3a" text-anchor="middle">Stage 2</text>
+<text x="960.0" y="404.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#151515" text-anchor="middle">Data Structures</text>
+<line x1="1325" y1="422.0" x2="1325" y2="456.0" stroke="#2b6fd6" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="0.1 8"/>
+<rect x="1205.0" y="456.0" width="240.0" height="118.0" rx="6" fill="#fde8a6" stroke="#151515" stroke-width="2.4"/>
+<text x="1325.0" y="490.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Functions</text>
+<text x="1325.0" y="523.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Modules</text>
+<text x="1325.0" y="556.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">pip &amp; venv</text>
+<rect x="1175.0" y="338.0" width="300.0" height="84.0" rx="6" fill="#fff03a" stroke="#151515" stroke-width="3"/>
+<text x="1325.0" y="371.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#4a4a3a" text-anchor="middle">Stage 3</text>
+<text x="1325.0" y="404.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#151515" text-anchor="middle">Functions &amp; Modules</text>
+<line x1="1690" y1="422.0" x2="1690" y2="456.0" stroke="#2b6fd6" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="0.1 8"/>
+<rect x="1570.0" y="456.0" width="240.0" height="118.0" rx="6" fill="#fde8a6" stroke="#151515" stroke-width="2.4"/>
+<text x="1690.0" y="490.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Exceptions &amp; Files</text>
+<text x="1690.0" y="523.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">OOP</text>
+<text x="1690.0" y="556.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Decorators</text>
+<rect x="1540.0" y="338.0" width="300.0" height="84.0" rx="6" fill="#fff03a" stroke="#151515" stroke-width="3"/>
+<text x="1690.0" y="371.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#4a4a3a" text-anchor="middle">Stage 4</text>
+<text x="1690.0" y="404.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#151515" text-anchor="middle">Intermediate &amp; OOP</text>
+<line x1="1690" y1="822.0" x2="1690" y2="856.0" stroke="#2b6fd6" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="0.1 8"/>
+<rect x="1570.0" y="856.0" width="240.0" height="118.0" rx="6" fill="#fde8a6" stroke="#151515" stroke-width="2.4"/>
+<text x="1690.0" y="890.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Git</text>
+<text x="1690.0" y="923.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">pytest</text>
+<text x="1690.0" y="956.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Packaging</text>
+<rect x="1540.0" y="738.0" width="300.0" height="84.0" rx="6" fill="#fff03a" stroke="#151515" stroke-width="3"/>
+<text x="1690.0" y="771.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#4a4a3a" text-anchor="middle">Stage 5</text>
+<text x="1690.0" y="804.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#151515" text-anchor="middle">Tools &amp; Best Practices</text>
+<line x1="1325" y1="822.0" x2="1325" y2="856.0" stroke="#2b6fd6" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="0.1 8"/>
+<rect x="1205.0" y="856.0" width="240.0" height="118.0" rx="6" fill="#fde8a6" stroke="#151515" stroke-width="2.4"/>
+<text x="1325.0" y="890.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Tkinter</text>
+<text x="1325.0" y="923.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">PyUIBuilder</text>
+<text x="1325.0" y="956.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">PySide6</text>
+<rect x="1175.0" y="738.0" width="300.0" height="84.0" rx="6" fill="#fff03a" stroke="#151515" stroke-width="3"/>
+<text x="1325.0" y="771.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#4a4a3a" text-anchor="middle">Stage 6</text>
+<text x="1325.0" y="804.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#151515" text-anchor="middle">GUI Development</text>
+<line x1="960" y1="822.0" x2="960" y2="856.0" stroke="#2b6fd6" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="0.1 8"/>
+<rect x="840.0" y="856.0" width="240.0" height="118.0" rx="6" fill="#fde8a6" stroke="#151515" stroke-width="2.4"/>
+<text x="960.0" y="890.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">NumPy</text>
+<text x="960.0" y="923.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Pandas</text>
+<text x="960.0" y="956.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Matplotlib</text>
+<rect x="810.0" y="738.0" width="300.0" height="84.0" rx="6" fill="#fff03a" stroke="#151515" stroke-width="3"/>
+<text x="960.0" y="771.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#4a4a3a" text-anchor="middle">Stage 7</text>
+<text x="960.0" y="804.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#151515" text-anchor="middle">NumPy &amp; Data</text>
+<line x1="595" y1="822.0" x2="595" y2="856.0" stroke="#2b6fd6" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="0.1 8"/>
+<rect x="475.0" y="856.0" width="240.0" height="118.0" rx="6" fill="#fde8a6" stroke="#151515" stroke-width="2.4"/>
+<text x="595.0" y="890.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Flask</text>
+<text x="595.0" y="923.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">FastAPI</text>
+<text x="595.0" y="956.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">Django</text>
+<rect x="445.0" y="738.0" width="300.0" height="84.0" rx="6" fill="#fff03a" stroke="#151515" stroke-width="3"/>
+<text x="595.0" y="771.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#4a4a3a" text-anchor="middle">Stage 8</text>
+<text x="595.0" y="804.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#151515" text-anchor="middle">Web Development</text>
+<line x1="230" y1="822.0" x2="230" y2="856.0" stroke="#2b6fd6" stroke-width="3.2" stroke-linecap="round" stroke-dasharray="0.1 8"/>
+<rect x="110.0" y="856.0" width="240.0" height="118.0" rx="6" fill="#fde8a6" stroke="#151515" stroke-width="2.4"/>
+<text x="230.0" y="890.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">scikit-learn</text>
+<text x="230.0" y="923.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">PyTorch</text>
+<text x="230.0" y="956.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="500" fill="#151515" text-anchor="middle">LLM APIs</text>
+<rect x="80.0" y="738.0" width="300.0" height="84.0" rx="6" fill="#fff03a" stroke="#151515" stroke-width="3"/>
+<text x="230.0" y="771.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#4a4a3a" text-anchor="middle">Stage 9</text>
+<text x="230.0" y="804.0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#151515" text-anchor="middle">Machine Learning &amp; AI</text>
+</svg>
